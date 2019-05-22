@@ -7,6 +7,7 @@
 <br/>
 <br></br>
 <br>
+
 Bienvenue sur notre boutique internet de vente d'antibitotiques...<br/>
-Pour commander, commencez par sélectionner vos médicaments dans le catalogue.
+Pour commander, commencez par sélectionner les médicaments que vous voulez commander dans le catalogue.
 </div>

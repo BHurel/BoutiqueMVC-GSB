@@ -10,10 +10,10 @@ echo "var btn1 = document.getElementById('btn1')
       btn1.addEventListener('click', oui)
       btn2.addEventListener('click', non)
       function oui(){
-      document.location = 'http://localhost/php/poly7_MVC/util/supprimer.php?id='+idP.value
+      document.location = 'http://localhost/e4/BoutiqueMVC-GSB/Application%20MVC%20Boutique/util/supprimer.php?id='+idP.value
       }
       function non(){
-      document.location = 'http://localhost/php/poly7_MVC/index.php?uc=administrer&action=categorie'
+      document.location = 'http://localhost/e4/BoutiqueMVC-GSB/Application%20MVC%20Boutique/index.php?uc=administrer&action=categorie'
       }";
 echo "</script>";
 ?>

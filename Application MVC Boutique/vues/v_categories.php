@@ -1,5 +1,7 @@
 <br>
 <ul id="categories">
+<u>Selectionnez la catégorie:</u>
+<br></br>
 <?php
 foreach( $lesCategories as $uneCategorie) 
 {

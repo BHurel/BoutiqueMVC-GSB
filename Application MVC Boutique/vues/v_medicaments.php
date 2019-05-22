@@ -1,4 +1,5 @@
 <div id="medicaments">
+	<br><br>
 <?php
 echo "<table>";
 foreach( $lesMedicaments as $unMedicament) 
